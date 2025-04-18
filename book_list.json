@@ -1,0 +1,16 @@
+[
+    {
+        "title": "hellen killer",
+        "author": "Margaret George",
+        "published_year": "2006",
+        "genre": "Historical fiction",
+        "read": false
+    },
+    {
+        "title": "Meri Kahani",
+        "author": "Asharib Ali",
+        "published_year": "2025",
+        "genre": "Kahani",
+        "read": true
+    }
+]
